@@ -1,7 +1,7 @@
 # Hi, I am Hewan :sparkles:
 
 - 🔭 I’m currently working on a project about food waste reduction and environmental impact.
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m software engineer
 - 👯 I’m looking to collaborate on any project that have real life impact.
 - 🤔 I’m looking for help with AI/ML.
 - 💬 Ask me about any tech related projects or designs.
